@@ -3,5 +3,5 @@ kind : ConfigMap
 metadata:
   name : db-config
 data:
-  host : mysql
-  dbName: javatechie
+  host : ****
+  dbName: ****
